@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XI CONGRESSO CIENTÍFICO NEF/AAC</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBrt5oKdXZCM-wBk3F3L2w74rFzVBMCC0w</string>
+
+</resources>
